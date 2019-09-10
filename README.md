@@ -1,11 +1,11 @@
 # Cómo compilar:
 
 ```
-javac Bisiesto.java
+javac Calculator.java
 ```
 
 # Cómo ejecutar:
 
 ```
-java Bisiesto
+java Calculator
 ```
