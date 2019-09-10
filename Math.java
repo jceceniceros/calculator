@@ -1,32 +1,22 @@
 class Math {
 
     public static double sum(double x, double y) {
-        double result = 0.0;
-        // TODO
-        return result;
+        return x + y;
     }
 
     public static double mult(double x, double y) {
-        double result = 0.0;
-        // TODO
-        return result;
+        return x * y;
     }
 
     public static double subs(double x, double y) {
-        double result = 0.0;
-        // TODO
-        return result;
+        return x - y;
     }
 
     public static double mod(double x, double y) {
-        double result = 0.0;
-        // TODO
-        return result;
+        return x % y;
     }
 
     public static double div(double x, double y) {
-        double result = 0.0;
-        // TODO
-        return result;
+        return x / y;
     }
 }
